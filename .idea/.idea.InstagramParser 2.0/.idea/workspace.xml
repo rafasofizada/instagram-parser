@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f4ab426-75b0-4498-b98b-730b9bfd7acd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2093412654">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="4496" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="4496" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InstagramParser 2.0/IDownloader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+              <folding>
+                <marker date="1538128430000" expanded="true" signature="6:80" ph="..." />
+                <marker date="1538128430000" expanded="true" signature="112:1543" ph="{...}" />
+                <marker date="1538128430000" expanded="true" signature="147:411" ph="{...}" />
+                <marker date="1538128430000" expanded="false" signature="162:356" ph="/// Download a file on given url by given WebClient ... " />
+                <marker date="1538128430000" expanded="true" signature="462:1131" ph="{...}" />
+                <marker date="1538128430000" expanded="false" signature="534:713" ph="/// Generate a WebClient with user-agent value declared as a constant in Link (?name of constant class) to downlo ... " />
+                <marker date="1538128430000" expanded="true" signature="746:941" ph="{...}" />
+                <marker date="1538128430000" expanded="true" signature="1007:1125" ph="{...}" />
+                <marker date="1538128430000" expanded="true" signature="1187:1541" ph="{...}" />
+                <marker date="1538128430000" expanded="false" signature="1202:1360" ph="/// Generate a x-instagram-gis header on top of FileDownloader (with user-agent header) to download a secure file ... " />
+                <marker date="1538128430000" expanded="true" signature="1439:1535" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InstagramParser 2.0/Utility.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+              <folding>
+                <marker date="1538126970000" expanded="false" signature="6:54" ph="..." />
+                <marker date="1538126970000" expanded="true" signature="86:760" ph="{...}" />
+                <marker date="1538126970000" expanded="true" signature="120:758" ph="{...}" />
+                <marker date="1538126970000" expanded="true" signature="380:752" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InstagramParser 2.0/XInstagramGisHash.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-114">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <marker date="1538078569000" expanded="true" signature="45:1741" ph="{...}" />
+                <marker date="1538078569000" expanded="true" signature="82:1739" ph="{...}" />
+                <marker date="1538078569000" expanded="true" signature="478:601" ph="{...}" />
+                <marker date="1538078569000" expanded="false" signature="653:792" ph="/// Generates an MD5 hash of x-instagram-gis header, recognized by Instagram security services ... " />
+                <marker date="1538078569000" expanded="true" signature="842:982" ph="{...}" />
+                <marker date="1538078569000" expanded="false" signature="1018:1201" ph="/// Generates a x-instagram-gis header value by templateXInstagramGis from gis and variables, generated by Genera ... " />
+                <marker date="1538078569000" expanded="true" signature="1248:1436" ph="{...}" />
+                <marker date="1538078569000" expanded="false" signature="1480:1583" ph="/// Generates variables part of the XInstagramGis template ... " />
+                <marker date="1538078569000" expanded="true" signature="1638:1733" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(?</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/InstagramParser 2.0/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/InstagramParser 2.0/Utility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/InstagramParser 2.0/XInstagramGisHash.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/InstagramParser 2.0/IDownloader.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/InstagramParser 2.0/Program.cs" />
+        <option value="$PROJECT_DIR$/InstagramParser 2.0/Interfaces/IDownloader.cs" />
+        <option value="$PROJECT_DIR$/InstagramParser 2.0/XInstagramGis.cs" />
+        <option value="$PROJECT_DIR$/InstagramParser 2.0/XInstagramGisHash.cs" />
+        <option value="$PROJECT_DIR$/InstagramParser 2.0/DownloadClient.cs" />
+        <option value="$PROJECT_DIR$/InstagramParser 2.0/DownloadWebClient.cs" />
+        <option value="$PROJECT_DIR$/InstagramParser 2.0/Utility.cs" />
+        <option value="$PROJECT_DIR$/InstagramParser 2.0/IDownloader.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="InstagramParser 2.0" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="InstagramParser 2.0" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="InstagramParser 2.0" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f4ab426-75b0-4498-b98b-730b9bfd7acd" name="Default Changelist" comment="" />
+      <created>1538069102959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538069102959</updated>
+      <workItem from="1538069106083" duration="11482000" />
+      <workItem from="1538122728269" duration="3944000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15426000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12890625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Statistic" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/InstagramParser 2.0/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InstagramParser 2.0/DownloadWebClient.cs" />
+    <entry file="file://$PROJECT_DIR$/InstagramParser 2.0/Utility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding>
+            <marker date="1538126970000" expanded="false" signature="6:54" ph="..." />
+            <marker date="1538126970000" expanded="true" signature="86:760" ph="{...}" />
+            <marker date="1538126970000" expanded="true" signature="120:758" ph="{...}" />
+            <marker date="1538126970000" expanded="true" signature="380:752" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InstagramParser 2.0/XInstagramGisHash.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1538078569000" expanded="true" signature="45:1741" ph="{...}" />
+            <marker date="1538078569000" expanded="true" signature="82:1739" ph="{...}" />
+            <marker date="1538078569000" expanded="true" signature="478:601" ph="{...}" />
+            <marker date="1538078569000" expanded="false" signature="653:792" ph="/// Generates an MD5 hash of x-instagram-gis header, recognized by Instagram security services ... " />
+            <marker date="1538078569000" expanded="true" signature="842:982" ph="{...}" />
+            <marker date="1538078569000" expanded="false" signature="1018:1201" ph="/// Generates a x-instagram-gis header value by templateXInstagramGis from gis and variables, generated by Genera ... " />
+            <marker date="1538078569000" expanded="true" signature="1248:1436" ph="{...}" />
+            <marker date="1538078569000" expanded="false" signature="1480:1583" ph="/// Generates variables part of the XInstagramGis template ... " />
+            <marker date="1538078569000" expanded="true" signature="1638:1733" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InstagramParser 2.0/IDownloader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+          <folding>
+            <marker date="1538128430000" expanded="true" signature="6:80" ph="..." />
+            <marker date="1538128430000" expanded="true" signature="112:1543" ph="{...}" />
+            <marker date="1538128430000" expanded="true" signature="147:411" ph="{...}" />
+            <marker date="1538128430000" expanded="false" signature="162:356" ph="/// Download a file on given url by given WebClient ... " />
+            <marker date="1538128430000" expanded="true" signature="462:1131" ph="{...}" />
+            <marker date="1538128430000" expanded="false" signature="534:713" ph="/// Generate a WebClient with user-agent value declared as a constant in Link (?name of constant class) to downlo ... " />
+            <marker date="1538128430000" expanded="true" signature="746:941" ph="{...}" />
+            <marker date="1538128430000" expanded="true" signature="1007:1125" ph="{...}" />
+            <marker date="1538128430000" expanded="true" signature="1187:1541" ph="{...}" />
+            <marker date="1538128430000" expanded="false" signature="1202:1360" ph="/// Generate a x-instagram-gis header on top of FileDownloader (with user-agent header) to download a secure file ... " />
+            <marker date="1538128430000" expanded="true" signature="1439:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
