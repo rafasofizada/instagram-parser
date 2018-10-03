@@ -7,4 +7,7 @@ Current version can:
 * Get Instagram account info by username (id, username, full name, description, followers, following, post counts)
 * Get all Instagram posts' info by account name (image download link, like count, comment count, caption)
 
-All info can be returned in JSON.
+Upcoming releases:
+* Output in JSON
+* Web app
+* Enable private account scraping (through Instagram log in)
